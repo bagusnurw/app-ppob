@@ -7,3 +7,6 @@ Dibuatnya aplikasi ini bertujuan untuk memudahkan konsumen dalam melakukan pemba
 <p>Aplikasi ini dibuat oleh : </p>
 <li>Bagus Nur Wahyu</li>
 <li>Anggit Tri Sujitoaji</li>
+
+</br>
+<p>Untuk mengetahui Dokumentasi Aplikasi ini silakan lihat di folder Dokumentasi.</p>
